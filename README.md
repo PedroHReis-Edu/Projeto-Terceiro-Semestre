@@ -37,6 +37,17 @@ O objetivo principal deste projeto é servir como uma peça de portfólio e um e
 
 ## Como Executar o Projeto
 
-1.  Certifique-se de ter o Flutter SDK instalado e configurado corretamente.
-2.  Clone este repositório:
-    
+1.  **Baixe o arquivo APK:**
+    *   Você pode encontrar o arquivo de instalação `CONECTCAR.apk` na seção de "Releases" deste repositório no GitHub ou através do link direto que pode ser fornecido pelo desenvolvedor.
+2.  **Permita a instalação de fontes desconhecidas (se necessário):**
+    *   No seu dispositivo Android, pode ser necessário permitir a instalação de aplicativos de "fontes desconhecidas". Geralmente, essa opção é encontrada em:
+        *   `Configurações > Segurança`
+        *   Ou `Configurações > Aplicativos > Acesso especial a apps > Instalar apps desconhecidos` (e então permitir para o navegador ou gerenciador de arquivos que você usará).
+    *   *Este passo pode variar dependendo da versão do Android e do fabricante do seu dispositivo.*
+3.  **Instale o APK:**
+    *   Localize o arquivo `CONECTCAR.apk` que você baixou (geralmente na pasta "Downloads").
+    *   Toque no arquivo para iniciar o processo de instalação.
+    *   Siga as instruções na tela para concluir a instalação.
+4.  **Abra o CONECTCAR:**
+    *   Após a instalação ser concluída, você encontrará o ícone do CONECTCAR na sua gaveta de aplicativos ou na tela inicial. Toque nele para iniciar!
+
