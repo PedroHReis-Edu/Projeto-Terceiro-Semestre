@@ -1,5 +1,3 @@
-# Projeto-Terceiro-Semestre
-
 # Projeto CONECTCAR (Simulador)
 
 Bem-vindo ao CONECTCAR! Este é um projeto Flutter desenvolvido como um **simulador de aplicativo de conectividade e gerenciamento veicular**. Ele demonstra diversas funcionalidades comuns em aplicativos automotivos, como visualização de informações do veículo, monitoramento de "saúde", controles remotos simulados e gerenciamento de perfil de usuário.
